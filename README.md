@@ -17,7 +17,7 @@
 
 ## 📫 Contato
 
-- Email: [marcos.ariel@example.com](mailto:marcos.ariel@example.com)
+- Email: [marcosariel.rj@outlook.com](mailto:marcosariel.rj@outlook.com)
 - LinkedIn: [Marcos Ariel](https://www.linkedin.com/in/marcosarielrj/)
 
 ## 🌟 Projetos em Destaque
