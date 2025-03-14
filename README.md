@@ -22,7 +22,7 @@
 
 ## 🌟 Projetos em Destaque
 
-- [Projeto 1](https://github.com/marcosarielrj/projeto1): Descrição breve do projeto.
+- [Projeto 1](https://github.com/marcosarielrj/maonaroda): Projeto Website Mão Na Roda.
 - [Projeto 2](https://github.com/marcosarielrj/projeto2): Descrição breve do projeto.
 
 ## 📝 Blog
